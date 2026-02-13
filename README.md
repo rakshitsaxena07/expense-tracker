@@ -9,7 +9,7 @@ All expense data is persisted in a relational database (MySQL), with support for
 
 ### Prerequisites
 
-* Java 21+ (you are using Java 25 ✔)
+* Java 21+ 
 * Gradle
 * MySQL running locally
 
